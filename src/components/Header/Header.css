@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     padding: 0 20px;
-    background: linear-gradient(270deg, #7256FF 0%, #B556FF 100%);
+    background: linear-gradient(270deg, #6256FF 0%, #B556FF 100%);
 }
 
 .username {
