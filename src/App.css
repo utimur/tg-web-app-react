@@ -5,6 +5,6 @@
 }
 
 body {
-  background: var(--tg-theme-bg-color);
+  background: linear-gradient(270deg, #7256FF 0%, #B556FF 100%);
   color: var(--tg-theme-text-color);
 }
